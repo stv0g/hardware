@@ -1,0 +1,20 @@
+Partlist
+
+Exported from Funkboard_v3.sch at 04.01.14 20:29
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library  Sheet
+
+C1       100n           C-EU025-025X050 C025-025X050 rcl      1
+C2       100u           CPOL-EUE2.5-6   E2,5-6       rcl      1
+C3       100n           C-EU025-025X050 C025-025X050 rcl      1
+IC1      LP2950Z        LP2950Z         TO92         linear   1
+LED1                    LED3MM          LED3MM       led      1
+LED2                    LED3MM          LED3MM       led      1
+R1       220            R-EU_0204/7     0204/7       rcl      1
+R2       220            R-EU_0204/7     0204/7       rcl      1
+SV1                     MA10-2W         MA10-2W      con-lstb 1
+SV2                     MA04-2          MA04-2       con-lstb 1
