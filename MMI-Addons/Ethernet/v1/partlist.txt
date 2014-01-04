@@ -1,0 +1,32 @@
+Partlist
+
+Exported from Ethernet_v1.sch at 04.01.14 23:29
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library   Sheet
+
+C1       22p            C-EU025-024X044 C025-024X044 rcl       1
+C2       22p            C-EU025-024X044 C025-024X044 rcl       1
+C3       10u            CPOL-EUE2-5     E2-5         rcl       1
+C4       10n            C-EU025-025X050 C025-025X050 rcl       1
+C5       10n            C-EU025-025X050 C025-025X050 rcl       1
+C6       10u            CPOL-EUE2-5     E2-5         rcl       1
+C7       100n           C-EU025-025X050 C025-025X050 rcl       1
+C8       100n           C-EU025-025X050 C025-025X050 rcl       1
+IC1      ENC28J60SP     ENC28J60SP      DIL28-3      microchip 1
+IC2      LF 33 CV       788TV           TO220V       linear    1
+L1       10u            L-EU0207/10     0207/10      rcl       1
+Q1       25M            CRYSTALHC49U-V  HC49U-V      crystal   1
+R1       2.2k           R-EU_0207/2V    0207/2V      rcl       1
+R2       220            R-EU_0207/2V    0207/2V      rcl       1
+R3       220            R-EU_0207/2V    0207/2V      rcl       1
+R4       51             R-EU_0207/2V    0207/2V      rcl       1
+R5       51             R-EU_0207/2V    0207/2V      rcl       1
+R6       51             R-EU_0207/2V    0207/2V      rcl       1
+R7       51             R-EU_0207/2V    0207/2V      rcl       1
+R8       3.3k           R-EU_0207/2V    0207/2V      rcl       1
+SV1                     MA10-2W         MA10-2W      con-lstb  1
+U$1      TRJ0011        TRJ0011         TRJ0011      Ethernet2 1
