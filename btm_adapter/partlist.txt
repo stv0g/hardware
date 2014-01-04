@@ -1,0 +1,13 @@
+Partlist
+
+Exported from btm_adapter.sch at 05.01.14 00:35
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device     Package  Library  Sheet
+
+JP1                     PINHD-1X17 1X17     pinhead  1
+JP2                     PINHD-1X17 1X17     pinhead  1
+U$1                     GP-GC021   GP-GC021 custom   1
