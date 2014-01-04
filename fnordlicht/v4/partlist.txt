@@ -1,0 +1,51 @@
+Partlist
+
+Exported from fnordlichtmini_v4.sch at 05.01.14 00:12
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library    Sheet
+
+C1       47uF           CPOL-EUE2-5     E2-5         rcl        1
+C2       100n           C-EU025-024X044 C025-024X044 rcl        1
+C3       33p            C-EU025-024X044 C025-024X044 rcl        1
+C4       33p            C-EU025-024X044 C025-024X044 rcl        1
+C5       100n           C-EU025-024X044 C025-024X044 rcl        1
+C6       100n           C-EU025-024X044 C025-024X044 rcl        1
+D1                      DIODE-D-2.5     D-2.5        diode      1
+D2                      DIODE-D-2.5     D-2.5        diode      1
+D3                      DIODE-D-2.5     D-2.5        diode      1
+D4                      DIODE-D-2.5     D-2.5        diode      1
+D5                      DIODE-D-2.5     D-2.5        diode      1
+D6                      DIODE-D-2.5     D-2.5        diode      1
+D7                      DIODE-D-2.5     D-2.5        diode      1
+IC1      MEGA8-P        MEGA8-P         DIL28-3      atmel      1
+IC2      78L05Z         78L05Z          TO92         linear     1
+INT                     SJ              SJ           jumper     1
+LB1                     LED5MM          LED5MM       led-mark   1
+LB2                     LED5MM          LED5MM       led-mark   1
+LB3                     LED5MM          LED5MM       led-mark   1
+LG1                     LED5MM          LED5MM       led-mark   1
+LG2                     LED5MM          LED5MM       led-mark   1
+LG3                     LED5MM          LED5MM       led-mark   1
+LR1                     LED5MM          LED5MM       led-mark   1
+LR2                     LED5MM          LED5MM       led-mark   1
+LR3                     LED5MM          LED5MM       led-mark   1
+Q1       16MHz          CRYSTALHC49U-V  HC49U-V      crystal    1
+R1       33R            R-EU_0204/2V    0204V        rcl        1
+R2       2k2            R-EU_0204/2V    0204V        rcl        1
+R3       2k2            R-EU_0204/2V    0204V        rcl        1
+R4       33R            R-EU_0204/2V    0204V        rcl        1
+R6       2k2            R-EU_0204/2V    0204V        rcl        1
+R7       33R            R-EU_0204/2V    0204V        rcl        1
+R9       2k2            R-EU_0204/2V    0204V        rcl        1
+SJ1                     SJ              SJ           jumper     1
+SJ2                     SJ              SJ           jumper     1
+SV1                     MA05-2          MA05-2       con-lstb   1
+T1       bc550c         -NPN-TO92       TO92         transistor 1
+T2       bc550c         -NPN-TO92       TO92         transistor 1
+T3       bc550c         -NPN-TO92       TO92         transistor 1
+U$1      AVR-ISP-6-EDGE AVR-ISP-6-EDGE  6PAD_ISP     isp        1
+X1                      AK500/2         AK500/2      con-ptr500 1
