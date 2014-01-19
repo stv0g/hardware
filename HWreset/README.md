@@ -3,7 +3,7 @@
 'HWreset' is a little ATmega8 microcontroller which uses the V-USB software stack to connect to your PC.
 Its equipped with two low voltage singaling relays to emulate your power and reset switches on a secondary SUT (system under test).
 
-I use this little tool to speed up my compile & debug cycle for x86 os development with [MetalSVM] (http://www.lfbs.rwth-aachen.de/content/765)
+I use this little tool to speed up my compile & debug cycle for x86 os development with [MetalSVM] (http://www.lfbs.rwth-aachen.de/content/765).
 
 ## Hardware
 

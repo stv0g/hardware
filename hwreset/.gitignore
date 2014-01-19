@@ -1,8 +1,0 @@
-*.o
-*.hex
-*.elf
-*.bin
-*.map
-*.lst
-*.d
-firmware/hwreset

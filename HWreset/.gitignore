@@ -1,0 +1,12 @@
+*.o
+*.hex
+*.elf
+*.bin
+*.map
+*.lst
+*.d
+*.eep
+*.lss
+*.sym
+host/hwreset
+firmware/vusb/
