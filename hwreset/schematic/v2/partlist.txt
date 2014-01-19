@@ -1,0 +1,28 @@
+Partlist
+
+Exported from untitled.sch at 18.01.14 01:03
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device            Package      Library     Sheet
+
+C1       100n           C-EU025-025X050   C025-025X050 rcl         1
+C2       100n           C-EU025-025X050   C025-025X050 rcl         1
+D1       3.3            ZENER-DIODEZD-2.5 ZDIO-2.5     diode       1
+D2       3.3            ZENER-DIODEZD-2.5 ZDIO-2.5     diode       1
+IC1      TINY22P        TINY22P           DIL08        atmel       1
+K1       351            351               351          relay       1
+K2       351            351               351          relay       1
+LED1                    LED3MM            LED3MM       led         1
+OK2      SFH618A-3      SFH618A-3         DIP4         optocoupler 1
+ONL                     PINHD-1X2         1X02         pinhead     1
+PWR                     PINHD-1X3         1X03         pinhead     1
+R1       5k             R-EU_0204/2V      0204V        rcl         1
+R2       68             R-EU_0204/2V      0204V        rcl         1
+R3       68             R-EU_0204/2V      0204V        rcl         1
+R4       2k2            R-EU_0204/2V      0204V        rcl         1
+R5       200            R-EU_0204/2V      0204V        rcl         1
+RES                     PINHD-1X3         1X03         pinhead     1
+X1                      PN87520           PN87520      con-berg    1
